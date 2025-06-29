@@ -1,4 +1,4 @@
-# Summer_School_Day_1
+# summer-school-day-1
 Simple Portfolio using HTML
 
 ![Screenshot 2025-06-23 231009](https://github.com/user-attachments/assets/569a4b41-4039-4b68-b90a-721b6d1e0924)
